@@ -62,7 +62,7 @@ This repo’s codespace is pre-configured with all dependencies through the devc
 1. **Clone the Repository**   
    Clone the repository and navigate into the project directory:  
    ```
-   git clone https://github.com/alx-sch/nostr-nomad nostr-nomad && nostr-nomad
+   git clone https://github.com/alx-sch/nostr-nomad nostr-nomad && cd nostr-nomad
    ```
 2. **Provide Substack Export**   
  - Export your Substack data (check [here](https://support.substack.com/hc/en-us/articles/360037466012-How-do-I-export-my-posts)).
