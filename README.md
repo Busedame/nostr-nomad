@@ -1,7 +1,7 @@
 # nostr-nomad
 
 <p align="center">
-    <img src="https://github.com/alx-sch/nostr-nomad/blob/main/.assets/nostr-nomad.png"  alt="nostr-nomad.png" width="500"/>
+    <img src="https://raw.githubusercontent.com/alx-sch/nostr-nomad/refs/heads/main/.assets/nostr-nomad.png" alt="nostr-nomad.png" width="500"/>
 </p>
 
 `nostr-nomad` migrates content from **Substack** to **Nostr** relays.    
@@ -126,7 +126,7 @@ relay publishing issues (timeout, incorrect imgur ID etc)
 - some relays don't seem to like 'fast publishing' --> increase delay between posts (see fct `publish_posts`).
 
 <p align="center">
-    <img src="https://github.com/alx-sch/nostr-nomad/blob/main/.assets/running_nostr-nomad_2.png" width="600" alt="running_nostr-nomad_2.png"/>
+    <img src="https://raw.githubusercontent.com/alx-sch/nostr-nomad/refs/heads/main/.assets/running_nostr-nomad_2.png" width="600" alt="running_nostr-nomad_2.png"/>
 </p>
 
 ```python
@@ -229,7 +229,7 @@ Below is a setup guide for `nostr-rs-relay`, but any other compatible relay shou
 
    The relay should begin running, and you’ll see status updates in the terminal. This confirms that the relay is active and listening for WebSocket connections. Leave the terminal window open to keep the relay running. To interact with the relay, use `nostr-nomad` or other testing methods through a separate terminal window.
    <p align="center">
-      <img src="https://github.com/alx-sch/nostr-nomad/blob/main/.assets/relay_running.png" width="800" alt="relay_running.png"/>
+      <img src="https://raw.githubusercontent.com/alx-sch/nostr-nomad/refs/heads/main/.assets/relay_running.png" width="800" alt="relay_running.png"/>
    </p>
 
 7. **Checking Messages of the Local Nostr Relay**    
